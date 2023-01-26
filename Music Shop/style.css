@@ -1,0 +1,30 @@
+.body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#title{
+    color: #3D1766;
+    font-size: 52px;
+}
+
+#nav-bar{
+    color: #6F1AB6;
+    font-size: 20px;
+    text-align: right;
+    width: 90%;
+}
+
+#gitar-list{
+    color: #CD0404;
+    font-size: 24px;
+}
+
+img{
+    float: left;
+    width: 32rem;
+    height: 32rem;
+    padding: 10px;
+    border-radius: 16px;
+    border: 4px solid #FF0032;
+    margin: 15px;
+}
