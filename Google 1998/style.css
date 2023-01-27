@@ -1,0 +1,52 @@
+#google{
+    width: 351px;
+    height: 113px;
+}
+
+.container{
+    width: 760px;
+    margin: auto;
+}
+
+.search-box{
+    margin: auto;
+    width: 760px;
+    background-color: #EEEEEE;
+    margin-bottom: 5px;
+}
+
+.special-search{
+    width: 278px;
+    height: 64px;
+    background-color: #7EE5DA;
+    float: left;
+    text-align: center;
+    margin-right: 5px;
+    padding-top: 8px;
+}
+
+.help{
+    background-color: #70CCC2;
+    width: 160px;
+    height: 68px;
+    float: left;
+    font-size: 14px;
+    margin-right: 5px;
+    padding-top: 4px;
+}
+
+.get-google{
+    background-color: #62B3AA;
+    height: 72px;
+    width: 312px;
+    float: left;
+    font-size: 12px;
+}
+
+.clear-fix{
+    clear: both;
+}
+
+.copyright{
+    margin-top: 27px;
+}
