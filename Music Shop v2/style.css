@@ -1,0 +1,33 @@
+body{
+    background-color: #e9ecef;
+}
+
+.nav{
+    background-color: #8e44ad;
+
+}
+
+.nav-title{
+    margin-left: 10px;
+    
+}
+
+.jumbotron-muzik-aletleri{
+    text-align: center;
+    list-style-type: none;
+}
+
+.card-img-top{
+    margin-left: 20%;
+}
+
+.page-title{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.urun-resim{
+    width: 90%;
+    height: 90%;
+}
