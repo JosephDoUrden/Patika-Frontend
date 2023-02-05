@@ -1,0 +1,28 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: #ffc017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.btn-black{
+    background-color: #191919;
+}
+
+.btn-yuvarlak{
+    border-radius: 20px;
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.footer-color > li {
+    color: #7d7d7d;
+    text-decoration: none;
+}
