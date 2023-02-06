@@ -1,0 +1,252 @@
+.navbarbg {
+    height: 50px;
+    background-color: white;
+}
+
+input.searche {
+    height: 30px;
+    max-width: 500px;
+    background-color: #eef3f8;
+    border: 0;
+    width: 250px !important;
+}
+
+input.searche::placeholder {
+    font-size: 13px;
+    color: gray;
+    background-image: url(/assets/search-solid.svg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 6%;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.body {
+    background-color: #f3f2ef;
+    margin-top: 70px;
+    padding: 0 70px 0 70px;
+}
+
+.menutext {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 5px;
+    font-weight: normal;
+}
+
+.menutext:hover {
+    color: black;
+}
+
+button.mediatext {
+    color: #5f5f5f;
+}
+
+button.mediatext:hover {
+    color: #5f5f5f;
+}
+
+.mediatext {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f5f5f;
+}
+
+i {
+    color: gray;
+    margin-top: 8px;
+}
+
+i:hover {
+    color: black;
+}
+
+input.content {
+    border-radius: 40px;
+    height: 45px;
+}
+
+input.content::placeholder {
+    font-weight: bolder;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(assets/edit-regular.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+div.card {
+    border-radius: 10px;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.view {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: #5f5f5f;
+}
+
+.categories {
+    font-size: 13px;
+    font-weight: bold;
+    color: #0a66c2;
+}
+
+li {
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+}
+
+.link {
+    font-size: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: #5f5f5f;
+}
+
+button.ref {
+    color: white;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+button.ref:hover {
+    color: #5f5f5f;
+}
+
+.postphoto {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.posttext {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 8px;
+    position: relative;
+    top: -15px;
+}
+
+.form-inline {
+    margin-right: 90px;
+}
+
+.nav-item>.nav-link>i {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+}
+
+.card-title-header-name {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.cad-title-header-desc {
+    margin-bottom: 10px;
+    color: #5f5f5f;
+    text-align: center;
+    font-size: 10px;
+}
+
+.navbar-brand {
+    margin-left: 75px;
+    margin-right: 8px !important;
+    padding-top: 0px !important;
+}
+
+.navbar {
+    border-bottom: 1px solid #e1dede;
+}
+
+.premium {
+    font-size: 10px;
+    width: 100px;
+    text-align: center;
+    text-decoration: underline;
+    color: #915907;
+}
+
+.premium>p {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.en-yeni {
+    position: sticky !important;
+    overflow: visible;
+    top: 4rem;
+}
+
+.gonderi-baslat>img {
+    width: 48px;
+    height: 48px;
+    margin-right: 8px;
+}
+
+.gonderi-baslat {
+    align-items: center;
+}
+
+.gonderi-tip {
+    display: flex !important;
+    border: none;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+
+.gonderi-tip-ana {
+    justify-content: space-around;
+}
+
+.gonderi-header {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header-bilgiler {
+    display: flex;
+    flex-direction: column;
+}
+
+span.like-icon {
+    margin: -5px;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.foooter {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 4rem;
+    overflow: visible;
+}
+
+.ogelerim {
+    font-size: 13px;
+}
